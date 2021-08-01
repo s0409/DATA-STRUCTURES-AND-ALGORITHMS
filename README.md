@@ -1,31 +1,31 @@
-# DATA-STRUCTURES-AND-ALGORITHMS
+# Data Structures & Algorithms
 
-# About the repository:
+<br/>
 
-1.Contains programming questions related to fundamentals of data structures and algorithms
-2.Mostly topics are covered in here.
-3.Questions are attached in folder you can check.
-4.All codes are written in python programming language.
+## About the repository:
 
-#Want to contribute ?
+- Contains programming questions related to fundamentals of data structures and algorithms
+- Every question has a separate folder.
+- All codes are written in Python Programming Language.
 
-If you found any typo / logical error / runtime error or you want to add another topic, feel free to create a pull request.
+<br/>
 
-How to create a pull request ?
+## Want to contribute ?
 
-step 1:   Fork this repository
-step 2:   Clone this to your local machine
-step 3:   Make a new branch
-step 4:   Make changes
-step 5:   Push it back to your repo
-step 6:   Click compare and pull request
-step 7:   Click create pull request
+- If you found any typo / logical error / runtime error or you want to add another topic, feel free to create a pull request.
 
-Are there any rules ?
+- **How to create a pull request ?**
 
-Nothing strict, just keep the indentation clean
-Use comments wherever necessary
-Follow folder and file structure
-Use appropriate variable names
+  - step 1: &nbsp; Fork this repository
+  - step 2: &nbsp; Clone this to your local machine
+  - step 3: &nbsp; Make a new branch
+  - step 4: &nbsp; Make changes
+  - step 5: &nbsp; Push it back to your repo
+  - step 6: &nbsp; Click compare and pull request
+  - step 7: &nbsp; Click create pull request
 
+- **Are there any rules ?**
 
+  - Nothing strict, just keep the indentation clean
+  - Use comments wherever necessary
+  - Use appropriate variable names
